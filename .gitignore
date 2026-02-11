@@ -1,0 +1,16 @@
+node_modules/
+dist/
+memory/
+logs/
+*.log
+.env
+.env.local
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+test-*-data/
+test-memory/
+coverage/
+demo_output*.txt
